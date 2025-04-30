@@ -1,19 +1,24 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Iphone 14",
       "price": 10000
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Macbook Pro",
       "price": 25000
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Ipad",
       "price": 12000
+    },
+    {
+      "id": "5262",
+      "name": "Samsung",
+      "price": 10000
     }
   ]
 }
